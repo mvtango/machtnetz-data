@@ -31,7 +31,7 @@ Die Knoten enthalten neben Name und Id noch das Attribut "type", in dem festgele
              }
     }
 
-Die Edges enthalten die Attribut source und target, die auf die jeweiligen Knoten verweisen. Type und data sind gestaltet wie oben, im Moment gibt es nur einen type - "aufsichtsratsmandat" und die oben skizzierten Informationen Vergütung und Vertritt.
+Die Edges enthalten die Attribut source und target, die auf die jeweiligen Knoten verweisen. Type und data sind gestaltet wie oben, im Moment gibt es nur einen type - "aufsichtsratsmandat" und die oben skizzierten Informationen Vergütung und Vertritt. Hinzu kommen werden unter Anderem Start und Ende des Mandats (als Datum). 
 
 
 
