@@ -36,5 +36,5 @@ Die Edges enthalten die Attribut source und target, die auf die jeweiligen Knote
 
 ### Testdaten
 
-![Hier liegt ein Satz Testdaten](https://raw.github.com/mvtango/machtnetz-data/master/data/aufsichtsrat.json)
+Und [hier liegt ein Satz Testdaten](https://raw.github.com/mvtango/machtnetz-data/master/data/aufsichtsrat.json "JSON-Datei").
 
