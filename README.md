@@ -1,8 +1,8 @@
 # Machtnetz - Daten
 
-Dieses Projekt stellt Daten zur Verfügung, mit denen Machtstrukturen visualisiert werden können. Vorbild ist die Darstellung der Aufsichtsräte unter http://ftd.de/machtnetz.
+Dieses Projekt stellt Daten zur Verfügung, mit denen Machtstrukturen visualisiert werden können. Vorbild ist die Darstellung der Aufsichtsräte unter http://apps.opendatacity.de/machtnetz/ 
 
-![(Machtnetz bei FTD.de)](img/ftd-machtnetz.png)
+![(Machtnetz bei Opendatacity.de)](img/ftd-machtnetz.png)
 
 ## Datenformat
 
